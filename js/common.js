@@ -1,4 +1,4 @@
-alert( "Это мой шедевр" )
+
 $(function() {
 
 	new WOW().init();
