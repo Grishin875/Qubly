@@ -36,3 +36,5 @@ $('a.yakor').on('click', function (event){
 	})
 	event.preventDefault()
 })
+
+allert('Этой мой шедевр')
